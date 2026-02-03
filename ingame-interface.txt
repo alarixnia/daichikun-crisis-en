@@ -17,3 +17,27 @@ I have nothing!
 
 c5 c6 d3 d3 af c3 b2 cf be b0 dd 0a de 0a c3 bd 0f 21
 0f I  20 H  A  V  E  0a 0a N  O  T  H  I  N  G  ! 
+
+Crow command
+-------------
+
+とちのちょうさにいってきます
+I'm going to survey the island.
+Surveying land.
+
+と ち の ち
+c4 c1 c9 c1
+
+まーとんとんというところですねー
+Everything is well.
+All is well.
+
+ま ー と
+cf b0 c4
+
+かなりはいにおかされています
+It's covered in ash.
+Loads of ash.
+
+か    な    り   は
+b6 c5 d8 ca
