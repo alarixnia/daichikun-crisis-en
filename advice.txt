@@ -48,11 +48,49 @@ bc ad b3 b6 b8 bc c3 b5 b7 c0 b2 d3 dd c1 ac c5
 Make a ditch and plant
 seeds, they'll grow well.
 
-Seed planted in a ditch
-will grow well.
+Seeds grow well
+in ditches.
 
 b6 dc a6 c2 b8 af c3 bf c9 cf dc d8 c6 0a
 
 20 20 20 20 20 20 20 20 20 20 de 20 20 de 0a
 
 c5 b4 a6 b3 b4 d9 c4 d6 b8 bf c0 c2 dd c1 ac 00
+
+おとしあなには
+わしらもおちるぞ
+
+Avoid falling
+into pits.
+
+b5 c4 bc b1 c5 c6 ca 0a
+20 20 20 20 20 20 20 de 0a
+dc bc d7 d3 b5 c1 d9 bf
+
+わ し ら も
+dc bc d7 d3
+
+しゅうかくぶつは6かげつ
+しかもたないんぢゃ
+
+The harvest only
+lasts 6 months.
+
+0e 20 20 20 20 20 de 20 20 20 20 de 0a
+bc ad b3 b6 b8 cc c2 ca 0f 36 0e b6 b9 c2 0a
+20 20 20 20 20 20 20 de 0a
+bc b6 d3 c0 c5 b2 dd c1 ac 00
+
+ほったあなは ガイガーごうで
+うめられるんぢゃ
+
+The gieger machine
+can fill holes
+that you dig.
+
+20 20 20 20 20 20 20 de 20 de 20 de 20 de 0a
+ce af c0 b1 c5 ca 20 0f b6 b2 b6 b0 0e ba b3 c3 0a
+20 20 20 20 20 20 de 0a
+b3 d2 d7 da d9 dd c1 ac 00 07 11 20 20 20 20 de 20 20 20 0a
+cd b2 c1 b2 b6 b2 ca a4 0a 20 20 20 20 20 20 20 de 20 20 20 20 20 de 0a
+b1 c5 a6 ce d9 ba c4 b6 c3 b7 c5 b2 dd c1 ac 00

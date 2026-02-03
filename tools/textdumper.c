@@ -47,6 +47,7 @@ main(int argc, char **argv)
 	charset[0x0e] = "[/altfont]";
 	charset[0x0f] = "[altfont]";
 	charset[0x20] = " ";
+	charset[0x21] = "!";
 	charset[0x22] = "\"";
 	charset[0xa1] = "。";
 	charset[0xa2] = "「";
@@ -108,7 +109,6 @@ main(int argc, char **argv)
 
 	memcpy(altset, charset, sizeof(charset));
 
-	altset[0x21] = "!";
 	altset[0xb1] = "ア";
 	altset[0xb2] = "イ";
 	altset[0xb3] = "ウ";
