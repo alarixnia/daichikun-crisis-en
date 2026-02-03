@@ -74,9 +74,6 @@ b5 c4 bc b1 c5 c6 ca 0a
 20 20 20 20 20 20 20 de 0a
 dc bc d7 d3 b5 c1 d9 bf
 
-わ し ら も
-dc bc d7 d3
-
 しゅうかくぶつは6かげつ
 しかもたないんぢゃ
 
@@ -134,3 +131,53 @@ only Daichi can use.
 de 20 20 20 20 20 20 20 20 20 de de 20 20 20 20 20 de 0a
 c0 b2 c1 bc b6 c2 b6 b3 ba c4 b6 c3 b7 c5 b2 d3 c9 b6 0a
 20 20 20 20 20 de 0a 0f 33 0e c2 b1 d9 c9 c1 ac 00
+
+つかれたときは
+MIL9が いちばんぢゃ
+
+When you're tired
+MIL9 is the best.
+
+MIL9 can help
+you recover.
+
+0e 0a c2 b6 da c0 c4 b7 ca 0a
+20 20 20 20 de 20 20 20 de 20 de 0a
+0f 4d 49 4c 39 0e b6 20 b2 c1 ca dd c1 ac 0a 00
+
+ガイガーごうを じょうぶにしてくれるものが
+あるそうぢゃ
+
+(I hear there's)
+An item (that) keeps
+Geiger No running.
+
+0f de 20 de 20 de 20 20 20 de 20 20 de 20 20 20 20 20 20 20 20 de 0a
+b6 b2 b6 b0 0e ba b3 a6 20 bc ae b3 cc c6 bc c3 b8 da d9 d3 c9 b6 0a
+20 20 20 20 de 0a b1 d9 bf b3 c1 ac 00
+
+しまのぬしを たおしたら
+しゅっこうぢゃ
+
+Once we've defeated
+the island's boss,
+it's time to sail.
+
+0e 0a bc cf c9 c7 bc a6 20 c0 b5 bc c0 d7 0a
+20 20 20 20 20 de 0a
+bc ad af ba b3 c1 ac 0a 00
+
+ウィンドウをひらいておくと
+じかんのながれがとまって
+ぽーズといっしょぢゃ
+
+Leaving the window
+open makes time
+stand still.
+
+0f 20 20 20 de 0a
+0f b3 a8 dd c4 b3 0e a6 cb d7 b2 c3 b5 b8 c4 0a
+de 20 20 20 20 de 20 de 0a
+bc b6 dd c9 c5 b6 da b6 c4 cf af c3 0a
+df 20 de 20 20 20 20 20 de 0a
+0f ce b0 bd 0e c4 b2 af bc ae c1 ac 0a 00
