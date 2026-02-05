@@ -1,0 +1,22 @@
+Help tooltips (select button)
+=============================
+
+みんなげんきかな
+How are we?
+
+20 20 20 de 0a 0e d0 dd c5 b9 dd b7 b6 c5 00
+
+どうぐをつかうのぢゃ
+Use tools.
+
+de 20 de 20 20 20 20 20 de 0a
+0e c4 b3 b8 a6 c2 b6 b3 c9 c1 ac 00
+
+ものをわたすのぢゃ
+おらんもんには わたせんわい
+
+Hand over items
+to present friends.
+
+d3 c9 a6 dc c0 bd c9 c1 ac 0a 0a
+b5 d7 dd d3 dd c6 ca 20 dc c0 be dd dc b2 00
