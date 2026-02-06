@@ -40,6 +40,7 @@ df 20 20 20 20 20 20 de 0a
 20 20 20 20 20 20 de 0a
 0f 31 0e c2 b7 b8 d7 b2 c1 ac 00
 
+[verified ingame]
 いちばのひらかれるじきまでには
 しゅうかくしておきたいもんぢゃな
 
@@ -51,6 +52,7 @@ b2 c1 ca c9 cb d7 b6 da d9 bc b7 cf c3 c6 ca 0a
 20 20 20 20 20 20 20 20 20 20 20 20 20 de 0a
 bc ad b3 b6 b8 bc c3 b5 b7 c0 b2 d3 dd c1 ac c5
 
+[verified ingame]
 かわをつくってそのまわりに
 なえをうえるとよくそだつんぢゃ
 
@@ -85,6 +87,7 @@ bc ad b3 b6 b8 cc c2 ca 0f 36 0e b6 b9 c2 0a
 20 20 20 20 20 20 20 de 0a
 bc b6 d3 c0 c5 b2 dd c1 ac 00
 
+[verified ingame]
 ほったあなは ガイガーごうで
 うめられるんぢゃ
 
@@ -107,6 +110,7 @@ c1 a4 0f c4 cf c4 0e a6 b3 b4 d9 bc b7 a6 0a
 20 20 20 20 de 20 20 de 0a
 b1 d4 cf d9 c3 c5 b2 bf 00
 
+[verified ingame]
 コーンは さんちにはつよいんぢゃ
 Corn is a very
 hardy plant.
@@ -123,10 +127,12 @@ b1 cf d8 ca b2 c6 b6 ba cf da d9 c4 0a
 20 20 20 20 20 20 20 20 de 0a
 b7 d3 b6 da c3 bc cf b3 bf 00
 
+[verified ingame]
 だいちしかつかうことができないものが
 3つあるのぢゃ
 There's 3 items
-only Daichi can use.
+only Daichi can
+use.
 
 de 20 20 20 20 20 20 20 20 20 de de 20 20 20 20 20 de 0a
 c0 b2 c1 bc b6 c2 b6 b3 ba c4 b6 c3 b7 c5 b2 d3 c9 b6 0a
@@ -185,11 +191,13 @@ bc b6 dd c9 c5 b6 da b6 c4 cf af c3 0a
 df 20 de 20 20 20 20 20 de 0a
 0f ce b0 bd 0e c4 b2 af bc ae c1 ac 0a 00
 
+[verified ingame]
 トまトのほうがとうもろこしよりも
 たかくうれるんぢゃ
 
-Tomatoes sell for
-more than corn.
+Tomatoes sell
+for more than
+corn.
 
 20 20 20 20 20 20 de 0a
 0f c4 cf c4 0e c9 ce b3 b6 c4 b3 d3 db ba bc d6 d8 d3 0a
@@ -230,3 +238,30 @@ up to 4 items.
 
 20 20 20 20 20 20 20 20 de 20 20 20 20 20 20 20 de 0a
 d3 c1 d3 c9 ca 0f 34 0e c2 cf c3 bc b6 20 d3 c3 dd c9 c1 ac 00
+
+みんなにひとつずつ
+MIL9をもたせておけば
+あんしんぢゃ
+
+If we all have
+one MIL9, we'll
+be safe.
+
+0e 20 20 20 20 20 20 20 de 0a
+d0 dd c5 c6 cb c4 c2 bd c2 0a
+20 20 20 20 20 20 20 20 20 20 20 de 0a
+0f 4d 49 4c 39 0e a6 d3 c0 be c3 b5 b9 ca 0a
+20 20 20 20 de 0a
+b1 dd bc dd c1 ac 00
+
+3がつ 7かつ 10がつ 1がつには
+なにかがおきる
+
+Something happens
+on the 3rd, 7th,
+10th, and 1st month.
+
+20 de 20 20 20 de 20 20 20 20 de 20 20 20 de 0a
+0f 33 0e b6 c2 20 0f 37 0e b6 c2 20 0f 31 30 0e b6 c2 20 0f 31 0e b6 c2 c6 ca 0a
+20 20 20 de 0a
+c5 c6 b6 b6 b5 b7 d9 0a 00

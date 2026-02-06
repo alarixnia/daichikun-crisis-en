@@ -58,3 +58,36 @@ Command mode.
 
 20 20 20 de 20 20 de 0a
 0f ba cf dd c4 d3 b0 c4 0e c6 20 ca b2 d8 cf bd 00
+
+きたのおおぞら だい!
+わるいやつは ゆるさないぞ
+
+I won't let
+the bad guys
+get away with
+it!
+
+The bad guys
+better watch
+out!
+
+20 20 20 20 20 de 20 20 de 0a
+0e b7 c0 c9 b5 b5 bf d7 20 c0 b2 0f 21 0a
+20 20 20 20 20 20 20 20 20 20 20 20 de 0a
+0e dc d9 b2 d4 c2 ca  20 d5 d9 bb c5 b2 bf 00
+
+きたのまりも でーす
+よロシク
+
+Hello, I'm Marimo.
+Nice to meet you.
+
+20 20 20 20 20 20 20 de 0a
+0e b7 c0 c9 cf d8 d3 20 c3 b0 bd 0a 0a
+0f d6 db bc b8 00
+
+くまの いのくまだいじろう です
+きたのさんには おせわになっています
+
+I'm the bear.
+I'm indebted to ???
