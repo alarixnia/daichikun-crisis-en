@@ -111,6 +111,7 @@ main(int argc, char **argv)
 
 	memcpy(altset, charset, sizeof(charset));
 
+	altset[0xaf] = "ッ";
 	altset[0xb1] = "ア";
 	altset[0xb2] = "イ";
 	altset[0xb3] = "ウ";
@@ -143,6 +144,7 @@ main(int argc, char **argv)
 	altset[0xd7] = "ラ";
 	altset[0xd8] = "リ";	
 	altset[0xd9] = "ル";
+	altset[0xd0] = "ミ";
 	altset[0xda] = "レ";
 	altset[0xdb] = "ロ";
 	altset[0xdc] = "ワ";

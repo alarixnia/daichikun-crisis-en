@@ -86,6 +86,7 @@ ALTERNATIVE FONT
 0f モ ー モ ー ラ ン ト 0e
 0f d3 b0 d3 b0 d7 dd c4 0e
 
+af = ッ
 b1 = ア
 b2 = イ
 b3 = ウ
@@ -118,6 +119,7 @@ d3 = モ
 d7 = ラ
 d8 = リ
 d9 = ル
+d0 = ミ
 da = レ
 db = ロ
 dc = ワ

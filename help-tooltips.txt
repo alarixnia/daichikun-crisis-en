@@ -1,6 +1,9 @@
 Help tooltips (select button)
 =============================
 
+Basic menus
+-----------
+
 みんなげんきかな
 How are we?
 
@@ -35,18 +38,6 @@ for advice!
 0e dc b6 d7 dd ba c4 ca 20 dc bc c6 b7 b8 c9 c1 ac 0f 21 0a 0a
 0e dc bc d3 20 dc b6 d7 dd 0f 21 21 00
 
-からすのALICE
-おやくに たちたい
-
-Crow alice
-I want to help
-
-ALICE can look
-out for you.
-
-0e b6 d7 bd c9 0f 41 4c 49 43 45 0a 0a
-0e b5 d4 b8 c6 20 c0 c1 c0 b2 00
-
 ざいさんをみるのぢゃ
 See your stocks.
 
@@ -59,8 +50,21 @@ Command mode.
 20 20 20 de 20 20 de 0a
 0f ba cf dd c4 d3 b0 c4 0e c6 20 ca b2 d8 cf bd 00
 
-きたのだいち です
+Characters
+-----------
 
+からすのALICE
+おやくに たちたい
+Crow alice
+I want to help
+
+ALICE can look
+out for you.
+
+0e b6 d7 bd c9 0f 41 4c 49 43 45 0a 0a
+0e b5 d4 b8 c6 20 c0 c1 c0 b2 00
+
+きたのだいち です
 It's Daichi.
 
 20 20 20 de 20  20 20 de 0a 0e b7 c0 c9 c0 b2 c1 20 c3 bd 00
@@ -109,3 +113,45 @@ Nice to meet you.
 
 I'm the bear.
 I'm indebted to ???
+
+Snacks
+------
+
+うまそうな くしかつぢゃろ?
+Looks like tasty kushikatsu, doesn't it?
+Yum, kushikatsu.
+
+20 20 20 20 20 20 20 20 20 20 de 0a
+b3 cf bf b3 c5 20 b8 bc b6 c2 c1 ac db 0f 3f 00
+
+Medicine
+--------
+
+つかれたときはこれが いちばんぢゃ
+It will help you
+recover.
+
+20 20 20 20 20 20 20 20 20 de 20 20 20 de 20 de 0a
+0e c2 b6 da c0 c4 b7 ca ba da b6 20 b2 c1 ca dd c1 ac 00
+
+プルトンキゃンデーは プルトンぞくの
+こうぶつなんぢゃ
+It's a treat for
+Plutons.
+
+df 20 20 20 20 20 20 de 20 20 20 df 20 20 20 de 0a
+cc d9 c4 dd b7 ac dd c3 b0 0e ca 0f 20 cc d9 c4 dd 0e bf b8 c9 0a
+20 20 de 20 20 20 de 0a
+ba b3 cc c2 c5 dd c1 ac 00 04
+
+この 「ウシナみンモー」は
+きんりょくをあげるんぢゃ
+It's said to increase
+muscle strength.
+
+It improves
+your muscles.
+
+0e ba c9 20 0f a2 b3 bc c5 d0 dd d3 b0 a3 0e ca 0a
+20 20 20 20 20 20 20 de 20 20 de 0a
+b7 dd d8 ae b8 a6 b1 b9 d9 dd c1 ac 00
