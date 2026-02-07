@@ -203,6 +203,7 @@ corn.
 0f c4 cf c4 0e c9 ce b3 b6 c4 b3 d3 db ba bc d6 d8 d3 0a
 20 20 20 20 20 20 20 de 0a c0 b6 b8 b3 da d9 dd c1 ac 00
 
+[verified ingame]
 プルトンキゃンデーは プルトンぞくのこうぶつぢゃ
 
 The plutons love
