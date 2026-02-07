@@ -6,7 +6,7 @@ Introductions
 
 おきゃくさん!!かおいろわるいよ
 つかれてんてしょう
-なんたって からたかしほんてすからね
+なんたって からだがしほんですからね
 いいくすりありますよ
 
 (Oh dear,)
@@ -20,7 +20,7 @@ c2 b6 da c3 dd c3 bc ae b3 0a 20 20 20 20 20 20 20 20 de de 20 20 20 de 0a
 c5 dd c0 af c3 20 b6 d7 c0 b6 bc ce dd c3 bd b6 d7 c8 0a 0a
 b2 b2 b8 bd d8 b1 d8 cf bd d6 00
 
-「オハナハン」へ ようこそ おいてやす。20 20 20 de 0a 0e bd d9  c4 20 d6 db ba ca da d9  d3 c9 ca b6 d8 d6 b0 0a  0a d0
+「オハナハン」へ ようこそ おいてやす。
 トウモロコシの たねや きのなえを
 うらせてもろうとります。
 
@@ -34,8 +34,8 @@ saplings.
 b3 d7 be c3 d3 db b3 c4 d8 cf bd a1 0a 00
 
 ハーイ、イラっシゃイ
-KIMOSKよー フレセント
-すると よろこはれるものはかりよー
+KIMOSKよー フレゼント
+すると よろこばれるものはかりよー
 みてってー
 
 You'll find
@@ -51,19 +51,18 @@ d0 c3 af c3 b0 00
 Messages
 --------
 
-しぇにもって てなおしてきーや
+しぇにもって でなおしてきーや
  ワーレー
 
-I can't make
-a special deal
-for you. (? appears at tool shop when out of money)
+Hands off,
+cheapskate.
 
 de 20 20 20 20 20 20 de 0a
 bc aa c6 d3 af c3 20 c3 c5 b5 bc c3 b7 b0 d4 0a 0a
 0f 20 dc b0 da b0 00
 
 ハーイ KIMOSKよー
-おかねかあるときに
+おかねがあるときに
 また きてねー
 
 Come back when
