@@ -55,6 +55,7 @@ main(int argc, char **argv)
 	charset[0xa4] = "、";
 	charset[0xa6] = "を";
 	charset[0xa8] = "ィ";
+	charset[0xaa] = "ぇ";
 	charset[0xac] = "ゃ";
 	charset[0xad] = "ゅ";
 	charset[0xae] = "ょ";
