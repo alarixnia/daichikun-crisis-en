@@ -158,7 +158,7 @@ main(int argc, char **argv)
 		uint8_t ch = buf[i] & 0xff;
 		if (ch == 0x0f) {
 			altfont = true;
-		} else if (ch == 0x0e) {
+		} else if (ch == 0x0e || ch == 0x0) {
 			altfont = false;
 		} else if (ch >= '0' && ch <= '9') {
 			fputc(ch, stdout);

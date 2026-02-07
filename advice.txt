@@ -1,6 +1,7 @@
 Grandpa's advice
 ================
 
+[verified ingame]
 ウ?ンドウをひらいてSELECTぼたんをおすと
 HELPがみれるんぢゃ
 
@@ -29,6 +30,7 @@ forgetting humanity
 20 20 de 20 20 20 20 20 de 20 20 20 de 20 de 0a
 c6 dd b9 dd b1 b7 d7 d2 b6 20 b6 dd bc dd c1 ac 0a 00
 
+[verified ingame]
 プルトンキゃンデーの しょうみきかんは
 1つきくらいぢゃ
 
@@ -100,6 +102,7 @@ ce af c0 b1 c5 ca 20 0f b6 b2 b6 b0 0e ba b3 c3 0a
 20 20 20 20 20 20 de 0a
 b3 d2 d7 da d9 dd c1 ac 00
 
+[verified ingame]
 だいち、トまトをうえるじきを
 あやまるでないぞ
 Sow (plant) tomatoes at
@@ -223,6 +226,7 @@ c5 c2 ca ca 20 c0 b2 cc b3 b6 0a
 20 20 20 20 20 20 20 de 0a
 b8 d9 d4 d3 bc da dd bf
 
+[verified ingame]
 なえはなるべくまとめて
 うえたほうがいいぞ
 
@@ -266,3 +270,21 @@ on the 3rd, 7th,
 0f 33 0e b6 c2 20 0f 37 0e b6 c2 20 0f 31 30 0e b6 c2 20 0f 31 0e b6 c2 c6 ca 0a
 20 20 20 de 0a
 c5 c6 b6 b6 b5 b7 d9 0a 00
+
+かわがはんらんすることもあるで
+きをつけるんぢゃ
+
+Rivers can flood.
+Be careful.
+
+20 20 de 20 20 20 20 20 20 20 20 20 20 20 de 0a
+b6 dc b6 ca dd d7 dd bd d9 ba c4 d3 b1 d9 c3 0a
+20 20 20 20 20 20 de 0a b7 a6 c2 b9 d9 dd c1 ac 00
+
+うみのそはは そたちかわるいんちゃ
+
+It's hard to
+grow by the sea.
+
+20 20 20 20 de 20 20 20 de 20 de 20 20 20 20 de 0a
+b3 d0 c9 bf ca ca 20 bf c0 c1 b6 dc d9  b2 dd c1 ac 00
