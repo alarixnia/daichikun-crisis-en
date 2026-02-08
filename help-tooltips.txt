@@ -119,7 +119,7 @@ Snacks
 
 うまそうな くしかつぢゃろ?
 Looks like tasty kushikatsu, doesn't it?
-Yum, kushikatsu.
+A tasty skewer.
 
 20 20 20 20 20 20 20 20 20 20 de 0a
 b3 cf bf b3 c5 20 b8 bc b6 c2 c1 ac db 0f 3f 00
@@ -201,3 +201,37 @@ I'll buy your corn.
 
 20 20 de 20 de 20 20 20 20 20 20 20 20 20 20 de 0a
 b5 c8 b6 b2 c3 bd 20 ba b0 dd a6 b6 af c3 b8 c0 bb b2 00
+
+Repair shop
+-----------
+
+ガイガーごうをもってきてくれるんぢゃ
+Transport the
+Geiger machine.
+
+de 20 de 20 de 20 20 20 20 20 20 20 20 20 20 20 de 0a
+0f b6 b2 b6 b0 0e ba b3 a6 d3 af c3 b7 c3 b8 da d9 dd c1 ac 00
+
+ガイガーごうの ねんりょうぢゃ
+Refuel the
+Geiger machine.
+
+de 20 de 20 de 20 20 20 20 20 20 20 20 de 0a
+0f b6 b2 b6 b0 0e ba b3 c9 20 c8 dd d8 ae b3 c1 ac 00
+
+ガイガーごうの しゅうりをするのぢゃ
+Repair the Geiger
+machine.
+
+de 20 de 20 de 20 20 20 20 20 20 20 20 20 20 20 de 0a
+0f b6 b2 b6 b0 0e ba b3 c9 20 bc ad b3 d8 a6 bd d9 c9 c1 ac 00
+
+しんぴんのガイガー
+ごうが かえるんぢゃ
+A brand new
+Geiger No.
+
+20 20 df 20 20 de 20 de 0a
+0e bc dd cb dd c9 0f b6 b2 b6 b0 0a
+de 20 de 20 20 20 20 20 de 0a
+0e ba b3 b6 20 b6 b4 d9 dd c1 ac 00
