@@ -205,6 +205,21 @@ b5 c8 b6 b2 c3 bd 20 ba b0 dd a6 b6 af c3 b8 c0 bb b2 00
 Repair shop
 -----------
 
+ガイガーごうのスヒードをアッフできるのぢゃ
+Improve Geiger speed.
+
+de 20 de 20 de 20 20 20 df 20 de 20 20 20 df de 20 20 20 de 0a
+0f b6 b2 b6 b0 0e ba b3 c9 0f bd cb b0 c4 0e a6 0f b1 af cc 0e c3 b7 d9 c9 c1 ac 00
+
+ガイガーごうを じょうぶにするんぢゃ
+Improve Geiger defenses. (sturdiness?)
+
+de 20 de 20 de 20 20 20 de 20 20 de 20 20 20 20 de 0a
+0f b6 b2 b6 b0 0e ba b3 a6 20 bc ae b3 cc c6 bd d9 dd c1 ac 0a 00
+
+たくさん はいかきができるよ うになるんぢゃ
+???
+
 ガイガーごうをもってきてくれるんぢゃ
 Transport the
 Geiger machine.

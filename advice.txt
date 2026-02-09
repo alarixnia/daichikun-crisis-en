@@ -14,18 +14,31 @@ button to view the help.
 
 ししとうは
 ちいさくて かわいいしまぢゃ
-
 Small and cute something something
 
 そりゃーもーきだてのいい
 はあさんぢゃった
-
 no idea what he's talking about
 
 にんげんあきらめが かんじんぢゃ
-
 something about
 forgetting humanity
+
+さけのつまみには コーンバターぢゃ
+Something about corn butter?
+
+くるしいときの モッシーだのみ!
+どうしようもないときは モッシーにあいにいくんぢゃ
+When things get tough, ???
+(is he talking about an item or person?)
+
+じゃまなてきには ありじごく
+スコップぢゃ
+For foes, use the ??? scope
+
+げんきになった なかまは
+むかえにいって あけるんぢゃ
+Pick up your recovered friends (???)
 
 20 20 de 20 20 20 20 20 de 20 20 20 de 20 de 0a
 c6 dd b9 dd b1 b7 d7 d2 b6 20 b6 dd bc dd c1 ac 0a 00
@@ -34,8 +47,8 @@ c6 dd b9 dd b1 b7 d7 d2 b6 20 b6 dd bc dd c1 ac 0a 00
 プルトンキゃンデーの しょうみきかんは
 1つきくらいぢゃ
 
-Pluton candy will last for
-1 month.
+Pluton candy lasts
+for 1 month.
 
 df 20 20 20 20 20 20 de 0a
 0f cc d9 c4 dd b7 ac dd c3 b0 0e c9 20 bc ae b3 d0 b7 b6 dd ca 0a
@@ -68,6 +81,7 @@ b6 dc a6 c2 b8 af c3 bf c9 cf dc d8 c6 0a
 20 20 20 20 20 20 20 20 20 20 de 20 20 de 0a
 c5 b4 a6 b3 b4 d9 c4 d6 b8 bf c0 c2 dd c1 ac 00
 
+[verified ingame, doesn't quite fit]
 おとしあなには
 わしらもおちるぞ
 
@@ -230,12 +244,14 @@ b8 d9 d4 d3 bc da dd bf
 なえはなるべくまとめて
 うえたほうがいいぞ
 
-Plant the seeds
-in groups.
+Plant the
+seeds in
+groups.
 
 20 20 20 20 20 de 0a c5 b4 ca c5 d9 cd b8 cf c4 d2 c3 0a
 20 20 20 20 20 de 20 20 de 0a b3 b4 c0 ce b3 b6 b2 b2 bf 0a
 
+[verified ingame]
 もちものは4つまでしか もてんのぢゃ
 
 You can carry
@@ -244,13 +260,14 @@ up to 4 items.
 20 20 20 20 20 20 20 20 de 20 20 20 20 20 20 20 de 0a
 d3 c1 d3 c9 ca 0f 34 0e c2 cf c3 bc b6 20 d3 c3 dd c9 c1 ac 00
 
+[verified ingame]
 みんなにひとつずつ
 MIL9をもたせておけば
 あんしんぢゃ
 
-If we all have
-one MIL9, we'll
-be safe.
+If we've got
+one MIL9 each,
+we'll be safe.
 
 0e 20 20 20 20 20 20 20 de 0a
 d0 dd c5 c6 cb c4 c2 bd c2 0a
@@ -259,18 +276,20 @@ d0 dd c5 c6 cb c4 c2 bd c2 0a
 20 20 20 20 de 0a
 b1 dd bc dd c1 ac 00
 
+[verified ingame]
 3がつ 7かつ 10がつ 1がつには
 なにかがおきる
 
-Something happens
-on the 3rd, 7th,
-10th, and 1st month.
+Something happens on
+the 3rd, 7th, 10th,
+and 1st month.
 
 20 de 20 20 20 de 20 20 20 20 de 20 20 20 de 0a
 0f 33 0e b6 c2 20 0f 37 0e b6 c2 20 0f 31 30 0e b6 c2 20 0f 31 0e b6 c2 c6 ca 0a
 20 20 20 de 0a
 c5 c6 b6 b6 b5 b7 d9 0a 00
 
+[verified ingame]
 かわがはんらんすることもあるで
 きをつけるんぢゃ
 
@@ -281,10 +300,48 @@ Be careful.
 b6 dc b6 ca dd d7 dd bd d9 ba c4 d3 b1 d9 c3 0a
 20 20 20 20 20 20 de 0a b7 a6 c2 b9 d9 dd c1 ac 00
 
+[verified ingame]
 うみのそはは そたちかわるいんちゃ
 
 It's hard to
 grow by the sea.
 
 20 20 20 20 de 20 20 20 de 20 de 20 20 20 20 de 0a
-b3 d0 c9 bf ca ca 20 bf c0 c1 b6 dc d9  b2 dd c1 ac 00
+b3 d0 c9 bf ca ca 20 bf c0 c1 b6 dc d9 b2 dd c1 ac 00
+
+[verified ingame]
+プルトンぞくは みずによわい
+Plutons hate
+water.
+
+df 20 20 20 de 20 20 20 20 de 0a
+0f cc d9 c4 dd 0e bf b8 ca 20 d0 bd c6 d6 dc b2 00
+
+[verified ingame]
+としよりはたいせつにな
+Respect your elders.
+Be kind!
+
+c4 bc d6 d8 ca c0 b2 be c2 c6 c5 0a 00
+
+[verified ingame]
+たいふうがきたら
+かわのそはは きけんぢゃ
+(It's dangerous)
+Don't go near
+rivers during
+storms.
+
+20 20 20 20 de 0a
+c0 b2 cc b3 b6 b7 c0 d7 0a
+20 20 20 20 de 20 20 20 20 20 de 20 0a
+b6 dc c9 bf ca ca 20 b7 b9 dd c1 ac 00
+
+はあさんはとても
+うつくしいうしぢゃった
+Granny Cow was
+very pretty.
+
+ca b1 bb dd ca c4 c3 d3 0a
+20 20 20 20 20 20 20 de 0a
+b3 c2 b8 bc b2 b3 bc c1 ac af c0 00
