@@ -48,6 +48,25 @@ you here!
 0e bd d9 c4 20 d6 db ba ca da d9 d3 c9 ca b6 d8 d6 b0 0a 0a
 d0 c3 af c3 b0 00
 
+こごのふきは きょうりょく やでー
+These tools are very powerful.
+
+20 20 20 de 20 20 20 20 20 20 20 20 20 20 20 de
+0a ba ba c9 cc b7 ca 20 b7 ae b3 d8 ae b8 20 d4 c3 b0 00
+
+ここはハーツシょッフたもんで
+おみゃーの きにいるように
+かいぞうしたるぎゃー
+
+We can modify your
+Geiger machine (to
+your liking).
+
+20 20 20 df 20 20 20 20 20 df de 20 20 de 0a
+ba ba ca 0f ca b0 c2 bc ae af cc 0e c0 d3 dd c3 0a 0a
+b5 d0 ac b0 c9 20 b7 c6 b2 d9 d6 b3 c6 0a
+20 20 de 20 20 20 20 de 0a b6 b2 bf b3 bc c0 d9 b7 ac b0 00
+
 Messages
 --------
 

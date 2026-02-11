@@ -218,7 +218,11 @@ de 20 de 20 de 20 20 20 de 20 20 de 20 20 20 20 de 0a
 0f b6 b2 b6 b0 0e ba b3 a6 20 bc ae b3 cc c6 bd d9 dd c1 ac 0a 00
 
 たくさん はいかきができるよ うになるんぢゃ
-???
+Improve Geiger's
+power and abilities.
+
+20 20 20 20 20 20 20 20 20 de de 20 20 20 20 20 20 20 20 de 0a
+0e c0 b8 bb dd 20 ca b2 b6 b7 b6 c3 b7 d9 d6 b3 c6 c5 d9 dd c1 ac 00
 
 ガイガーごうをもってきてくれるんぢゃ
 Transport the
