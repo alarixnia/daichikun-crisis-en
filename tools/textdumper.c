@@ -140,6 +140,7 @@ main(int argc, char **argv)
 	altset[0xca] = "ハ";
 	altset[0xcb] = "ヒ";
 	altset[0xcc] = "フ";
+	altset[0xcf] = "マ";
 	altset[0xd3] = "モ";
 	altset[0xd7] = "ラ";
 	altset[0xd8] = "リ";	

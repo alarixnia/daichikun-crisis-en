@@ -36,13 +36,6 @@ When things get tough, ???
 スコップぢゃ
 For foes, use the ??? scope
 
-げんきになった なかまは
-むかえにいって あけるんぢゃ
-Pick up your recovered friends (???)
-
-20 20 de 20 20 20 20 20 de 20 20 20 de 20 de 0a
-c6 dd b9 dd b1 b7 d7 d2 b6 20 b6 dd bc dd c1 ac 0a 00
-
 [verified ingame]
 プルトンキゃンデーの しょうみきかんは
 1つきくらいぢゃ
@@ -58,7 +51,6 @@ df 20 20 20 20 20 20 de 0a
 [verified ingame]
 いちばのひらかれるじきまでには
 しゅうかくしておきたいもんぢゃな
-
 Let's harvest everything
 before the market opens.
 
@@ -107,7 +99,7 @@ bc b6 d3 c0 c5 b2 dd c1 ac 00
 ほったあなは ガイガーごうで
 うめられるんぢゃ
 
-The geiger machine
+The geiger no
 can fill holes
 that you dig.
 
@@ -345,3 +337,72 @@ very pretty.
 ca b1 bb dd ca c4 c3 d3 0a
 20 20 20 20 20 20 20 de 0a
 b3 c2 b8 bc b2 b3 bc c1 ac af c0 00
+
+げんきになった なかまは
+むかえにいって あげるんぢゃ
+Pick up your
+recovered friends.
+
+20 20 de 20 20 20 20 20 de 20 20 20 de 20 de 0a
+c6 dd b9 dd b1 b7 d7 d2 b6 20 b6 dd bc dd c1 ac 0a 00
+
+[verified ingame]
+じゃまなてきには ありじごく
+スコップぢゃ
+Use a shovel to
+make pitfalls. (traps)
+
+de 20 20 20 20 20 20 20 20 20 20 de de 0a
+0e bc ac cf c5 c3 b7 c6 ca 20 b1 d8 bc ba b8 0a
+20 20 20 df de 0a
+0f bd ba af cc 0e c1 ac 00
+
+[verified ingame]
+いたてんをつかうと ガイガーごうは
+めもまわるほどはやくなるんぢゃ
+You can upgrade
+Geiger to be fast.
+
+20 de 20 20 20 20 20 20 20 20 de 20 de 20 de 0a
+b2 c0 c3 dd a6 c2 b6 b3 c4 20 0f b6 b2 b6 b0 0e ba b3 ca 0a
+20 20 20 20 20 20 de 20 20 20 20 20 20 de 0a
+0e d2 d3 cf dc d9 ce c4 ca d4 b8 c5 d9 dd c1 ac
+
+[verified ingame]
+ガイガーごうは たいせつにな!
+Take care of the Geiger!
+
+de 20 de 20 de 0a
+b6 b2 b6 b0 0e ba b3 ca 20 c0 b2 be c2 c6 c5 0f 21 0a 00
+
+カーラースー ナゼナクノー
+プルトンくるからよー っと
+Crow Alice cries when
+Plutons arrive.
+
+20 20 20 20 20 20 20 20 de 0a
+b6 b0 d7 b0 bd b0 20 c5 be c5 b8 c9 b0 0a
+df 0a
+0f cc d9 c4 dd 0e b8 d9 b6 d7 d6 b0 20 af c4 00
+
+[verified ingame]
+まずトマトをうえ、ざいさんをふやすのぢゃ!
+トまトは 4がつから7がつに そだつぞ゙
+Tomatoes grow from
+April to July.
+
+20 de 20 20 20 20 20 20 20 de
+20 20 20 20 20 20 20 20 de 0a
+cf bd 0f c4 cf c4 0e a6 b3 b4 a4 bb b2 bb dd a6 cc d4 bd c9 c1 ac 0f 21 0a
+20 20 20 20 20 20 de 20 20 20 20 de 20 20 20 20 de 20 de 0a
+0f c4 cf c4 0e ca 20 0f 34 0e b6 c2 b6 d7 0f 37 0e b6 c2 c6 20 bf c0 c2 bf 00
+
+すいろはうみからは 
+ひけないのぢゃ
+You can't make rivers from the sea.
+Rivers need
+fresh water.
+
+bd b2 db ca b3 d0 b6 d7 ca 20 0a
+20 20 20 20 20 de 0a
+cb b9 c5 b2 c9 c1 ac 00
