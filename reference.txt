@@ -1,20 +1,5 @@
-Be b2 da b7 0f 31 39 39 37 0e c8 dd 
-せ い れ き    1  9  9  7     ね ん う し ど し
-
-da dd 0e c6 ca b6 ba b3  b6 d7 c1 c3 b2 cd c4 0a  20 20
-
-de 0a c2 b3 bc d9 0f 22 42 4c 41 43 4b 20 50 41 54 48 22 0e a6 c2 b6 af c3 0a df
-                  LB "  B  L  A  C  K  20 P  A  T  H  "  LE
-      つ う じ る                                           を つ か っ て
-
-de 0a cf c0 b2 bc db b3 a4 b6 d7 bd c9 0f 41 4c 49 43 45 0e c9 c0 bd b9 a6 0a
-      ま だ い じ ろ う 、 か ら す の LB A  L  I  C  E  LE の た す け を
-
-de 0a 0f b3 a8 dd c4 b3 0e a6 d7 b2 c3 0f 53 45 4c 45 43 54 0e ce c0 dd a6 b5 bd c4 0a
-         ウ ィ ン ド ウ を ひ ら い て BL S  E  L  E  C  T  LE ぼ ん を お す と
-
-48 45 4c 50 0e b6 d0 da d9 dd c1 ac 00 09 0f
-H  E  L  P  EL が み れ る ん ぢ ゃ
+Character set
+-------------
 
 0a = line feed
 0f = begin alternative font
@@ -79,12 +64,8 @@ dd = ん
 de = ゛
 df = ゜
 
-ALTERNATIVE FONT
-
-モーモーランド
-
-0f モ ー モ ー ラ ン ト 0e
-0f d3 b0 d3 b0 d7 dd c4 0e
+Alternative font
+----------------
 
 af = ッ
 b1 = ア
@@ -125,3 +106,10 @@ da = レ
 db = ロ
 dc = ワ
 dd = ン
+
+Dialog windows
+--------------
+
+* First byte is dialog height.
+* Second byte is dialog width.
+* End with 00 byte.
