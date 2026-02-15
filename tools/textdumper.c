@@ -163,9 +163,12 @@ main(int argc, char **argv)
 			altfont = true;
 		} else if (ch == 0x0e || ch == 0x0) {
 			altfont = false;
-		} else if (ch >= '0' && ch <= '9') {
+		} else if (altfont && (ch >= '0' && ch <= '9')) {
 			fputc(ch, stdout);
-		} else if (ch >= 'A' && ch <= 'Z') {
+		} else if (altfont && (ch >= 'A' && ch <= 'Z')) {
+			fputc(ch, stdout);
+		} else if (altfont && (ch == '.' || ch == ',' ||
+		    ch == '!' || ch == '?' || ch == '\'')) {
 			fputc(ch, stdout);
 		} else if (charset[ch] != NULL) {
 			printf("%s", altfont ? altset[ch] : charset[ch]);
