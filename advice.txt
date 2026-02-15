@@ -131,6 +131,7 @@ hardy plant.
 20 20 20 20 20 20 20 20 20 20 20 20 20 20 de 0a
 0f ba b0 dd 0e ca 20 bb dd c1 c6 ca c2 d6 b2 dd c1 ac 0a 00
 
+[verified ingame]
 あまりはいにかこまれると
 きもかれてしまうぞ
 Too much ash and
@@ -192,12 +193,13 @@ boss.
 20 20 20 20 20 de 0a
 bc ad af ba b3 c1 ac 0a 00
 
+[verified ingame]
 ウィンドウをひらいておくと
 じかんのながれがとまって
 ぽーズといっしょぢゃ
 
-Leave the window
-open to make time
+Leaving the window
+open makes time
 stand still.
 
 0f 20 20 20 de 0a
@@ -402,6 +404,7 @@ cf bd 0f c4 cf c4 0e a6 b3 b4 a4 bb b2 bb dd a6 cc d4 bd c9 c1 ac 0f 21 0a
 20 20 20 20 20 20 de 20 20 20 20 de 20 20 20 20 de 20 de 0a
 0f c4 cf c4 0e ca 20 0f 34 0e b6 c2 b6 d7 0f 37 0e b6 c2 c6 20 bf c0 c2 bf 00
 
+[verified ingame]
 すいろはうみからは 
 ひけないのぢゃ
 You can't make rivers from the sea.
@@ -412,6 +415,7 @@ bd b2 db ca b3 d0 b6 d7 ca 20 0a
 20 20 20 20 20 de 0a
 cb b9 c5 b2 c9 c1 ac 00
 
+[verified ingame]
 かいものにだれかをつれていくと
 にもつをもってもらえるんぢゃ
 Others can help
@@ -422,6 +426,7 @@ b6 b2 d3 c9 c6 c0 da b6 a6 c2 da c3 b2 b8 c4 0a
 20 20 20 20 20 20 20 20 20 20 20 20 de 0a
 c6 d3 c2 a6 d3 af c3 d3 d7 b4 d9 dd c1 ac 00
 
+[verified ingame]
 じぶんでうごかせなくなったガイガーごうは
 レッカーいどうをたのむのぢゃ
 When it's hard to
@@ -433,6 +438,7 @@ bc cc dd c3 b3 ba b6 be c5 b8 c5 af c0 0f b6 b2 b6 b0 0e ba b3 ca 0a
 20 20 20 20 20 de 20 20 20 20 20 20 de 0a
 0f da af b6 b0 0e b2 c4 b3 a6 c0 c9 d1 c9 c1 ac 0a 00
 
+[verified ingame]
 しょうにんは
 ねん 4かいくるぞ
 それはな
