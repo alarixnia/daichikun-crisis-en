@@ -93,3 +93,28 @@ more money!
 
 0f ca b0 b2 20 4b 49 4d 4f 53 4b 0e d6 b0 0a 20 20 20 de 0a
 b5 b6 c8 b6 b1 d9 c4 b7 c6 0a 0a cf c0 20 b7 c3 c8 b0 00
+
+かねもってきてくれんと
+いかんぎゃ もー
+You need to
+bring money.
+
+b6 c8 d3 af c3 b7 c3 b8 da dd c4 0a
+20 20 20 de 0a
+b2 b6 dd b7 ac 20 d3 b0 00
+
+おかねないの? そう じ5ゃーね?
+No money, eh?
+
+20 20 20 20 20 20 20 20 20 20 20 de 0a
+b5 b6 c8 c5 b2 c9 0f 3f 0e 20 bf b3 20 bc ac b0 c8 00
+
+こんどは ぎょうさん
+おかねはんもって
+おいてやす
+Next time,
+bring plenty of
+money.
+
+20 20 de 20 20 de 0a ba dd c4 ca 20 b7 ae b3 bb dd 0a 0a
+b5 b6 c8 ca dd d3 af c3 0a 20 20 de 0a b5 b2 c3 d4 bd 00
