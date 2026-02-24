@@ -1,6 +1,9 @@
 Messages/alerts
 ===============
 
+Ingame
+------
+
 だいち は やられてしまった
 Daichi was defeated.
 Daichi is dead
@@ -11,3 +14,21 @@ Daichi is dead
 A storm arrived!
 
 20 20 20 de 0a b1 d7 bc b6 20 d4 af c3 b7 c0 0f 21 0d
+
+Saving
+-------
+
+せーぶしてよいですか?
+
+Save the game?
+
+20 20 de 20 20 20 20 de 0a
+be b0 cc bc c3 d6 b2 c3 bd b6 0f 3f 00
+
+ぱすわーど を
+しっかりめモしておくのぢゃぞ
+しゅうかくぶつは みなうったかの?
+
+Write down your
+password carefully.
+Did you sell all the harvest?

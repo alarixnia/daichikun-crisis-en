@@ -50,6 +50,33 @@ Command mode.
 20 20 20 de 20 20 de 0a
 0f ba cf dd c4 d3 b0 c4 0e c6 20 ca b2 d8 cf bd 00
 
+Save options
+------------
+
+あーら ふしぎ
+バックアップ めモリーに セーブできるんぢゃ
+
+You can save to memory.
+Technology is amazing.
+
+20 20 20 20 20 20 de 0a
+b1 b0 d7 20 cc bc b7 0a
+de 20 20 20 20 df 20 20 20 20 20 20 20 20 20 de de 20 20 20 de 0a
+0f ca af b8 b1 af cc 20 d2 d3 d8 b0 0e c6 20 0f be b0 cc 0e c3 b7 d9 dd c1 ac 00
+
+ぱすわーど ちゅうもんを
+しらべるところぢゃ
+
+You can check the
+password for your
+progress.
+
+20 20 de 20 20 20 20 de 0a
+0f be b0 cc 0e 20 bd d9 dd c1 ac 00 06 0e df 20 20 20 de 0a
+ca bd dc b0 c4 20 c1 ad b3 d3 dd a6 0a
+20 20 de 20 20 20 20 de 0a
+bc d7 cd d9 c4 ba db c1 ac 0a 00
+
 Characters
 -----------
 
