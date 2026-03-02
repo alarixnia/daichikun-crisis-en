@@ -32,3 +32,8 @@ be b0 cc bc c3 d6 b2 c3 bd b6 0f 3f 00
 Write down your
 password carefully.
 Did you sell all the harvest?
+
+せーぶしました
+Saved.
+
+05 09 20 20 de 0a be b0 cc bc cf bc c0 00

@@ -41,3 +41,11 @@ Loads of ash.
 
 か    な    り   は
 b6 c5 d8 ca
+
+Status of Geiger
+----------------
+
+とくしゅそうび
+Special item
+
+20 20 20 20 20 20 20 20 de 0a 20 20 c4 b8 bc ad bf b3 cb 00

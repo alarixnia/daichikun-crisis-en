@@ -118,3 +118,19 @@ money.
 
 20 20 de 20 20 de 0a ba dd c4 ca 20 b7 ae b3 bb dd 0a 0a
 b5 b6 c8 ca dd d3 af c3 0a 20 20 de 0a b5 b2 c3 d4 bd 00
+
+Inventory full
+--------------
+
+MOOもてましぇーん
+Can't hold it.
+
+4d 4f 4f 0e d3 c3 cf bc aa b0 dd 00
+
+Selling produce
+---------------
+
+あらへんどすえ
+You have none.
+
+20 20 20 20 de 0a 0e b1 d7 cd dd c4 bd b4 00
