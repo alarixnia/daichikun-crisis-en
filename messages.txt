@@ -56,3 +56,28 @@ You feel empowered.
 
 20 20 20 de 20 20 20 de 0a
 c1 b6 d7 b6 20 d0 c5 b7 af c0 b0 0a 00
+
+へイ! まんたん でっせ
+Hey! It's full!
+
+20 20 20 20 20 20 20 20 20 de 0a 0f
+cd b2 21 20 0e cf dd c0 dd 20 c3 af be 00
+
+Checking on people healing at home
+----------------------------------
+
+おじいさんは
+Grandpa Cow
+
+20 de 0a b5 bc b2 bb dd ca 0a 06 28 00
+
+またがんばれるそうよ
+Ready for action.
+
+20 20 de 20 de 0a cf c0 b6 dd ca da d9 bf b3 d6 0d 00
+
+まだだめみたい
+Still not good.
+Healing.
+
+20 de de 0a cf c0 c0 d2 d0 c0 b2 0d 00

@@ -29,8 +29,8 @@ Surveying land.
 c4 c1 c9 c1
 
 まーとんとんというところですねー
-Everything is well.
-All is well.
+The island needs
+some work.
 
 ま ー と
 cf b0 c4
@@ -41,6 +41,13 @@ Loads of ash.
 
 か    な    り   は
 b6 c5 d8 ca
+
+かなりかいふくしたようですよー
+The island is
+recovering.
+
+20 20 20 20 20 20 20 20 20 20 20 de 0a
+b6 c5 d8 b6 b2 cc b8 bc c0 d6 b3 c3 bd d6 b0 00
 
 Status of Geiger
 ----------------

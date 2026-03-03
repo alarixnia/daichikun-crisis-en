@@ -119,6 +119,23 @@ money.
 20 20 de 20 20 de 0a ba dd c4 ca 20 b7 ae b3 bb dd 0a 0a
 b5 b6 c8 ca dd d3 af c3 0a 20 20 de 0a b5 b2 c3 d4 bd 00
 
+ガイガーごうを もってきてくれんと
+いかんぎゃー
+レッカーいどうもやっとるで
+つかってちょ
+
+You need to bring
+the Geiger here.
+We offer towing
+services.
+
+de 20 de 20 de 0a
+0f b6 b2 b6 b0 0e ba b3 a6 20 d3 af c3 b7 c3 b8 da dd c4 0a
+20 20 20 de 0a b2 b6 dd b7 ac b0 0a
+20 20 20 20 20 de 20 20 20 20 20 20 de 0a
+0f da af b6 b0 0e b2 c4 b3 d3 d4 af c4 d9 c3 0a 0a
+c2 b6 af c3 c1 ae 00
+
 Inventory full
 --------------
 
