@@ -41,10 +41,23 @@ Saved.
 Using items
 ------------
 
+Regular shovel
+
+スコップを もった
+Shovel equipped
+
+20 20 20 df 0a
+0f bd ba af cc 0e a6 20 d3 af c0 00
+
+Brown mochi snack thing?
+
+へアーのみだれが なおった
+???
+
 Gold shovel
 
 ジゴクスコップを もった
-Holding hell shovel.
+Hell shovel equipped
 
 de de 20 20 20 20 df 0a
 0f bc ba b8 bd ba af cc 0e a6 20 d3 af c0 00
