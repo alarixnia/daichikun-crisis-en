@@ -65,6 +65,45 @@ b6 c0 c1 a6 bc c3 b2 d9 20 c0 b2 cd dd d2 bd d7 bc b2 0a
 20 20 20 20 de 0a bc cf c5 dd c1 ac 00
 
 [verified ingame]
+しとうはぶきみなかっかざんと
+しかざんをもつおそろしいしまぢゃ
+
+Shitou is a dreadful
+island! It has 2
+volcanoes.
+
+20 20 20 20 de 20 20 20 20 20 20 de 0a
+bc c4 b3 ca cc b7 d0 c5 b6 af b6 bb dd c4 0a
+20 20 de 20 20 20 20 20 20 20 20 20 20 20 de 0a
+bc b6 bb dd a6 d3 c2 b5 bf db bc b2 bc cf c1 ac 00
+
+[verified ingame]
+はーあぁぁ、ほっかいィめーいーぶーつ
+かずぁかぁーすこりゃあーれどーよー
+
+Hoho, this island (Hokkaitou)
+takes me back...
+So many famous sights.
+
+20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 de 0a
+ca b0 b1 a7 a7 a4 ce af b6 b2 a8 d2 b0 b2 b0 cc b0 c2 0a
+20 de 20 20 20 20 de 20 20 20 20 20 20 de 0a
+b6 bd a9 b6 a7 b0 bd ba d8 ac b1 b0 da c4 b0 d6 b0 00
+
+[verified ingame]
+さやえんとうには みずうみが2つもあって
+たいへんみどりのおおいしまなんぢゃ
+
+Savaentou has 2
+lakes and is very
+verdant.
+
+20 20 20 20 20 20 20 20 20 20 de 20  20 de 0a
+bb d4 b4 dd c4 b3 c6 ca 20 d0 bd b3 d0 b6 0f 32 0e c2 d3 b1 af c3 0a
+20 20 20 20 20 de 20 20 20 20 20 20 20 20 20 de 0a
+c0 b2 cd dd d0 c4 d8 c9 b5 b5 b2 bc cf c5 dd c1 ac 00
+
+[verified ingame]
 プルトンキゃンデーの しょうみきかんは
 1つきくらいぢゃ
 
