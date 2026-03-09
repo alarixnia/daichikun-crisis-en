@@ -71,7 +71,7 @@ You feel empowered.
 c1 b6 d7 b6 20 d0 c5 b7 af c0 b0 0a 00
 
 へイ! まんたん でっせ
-Hey! It's full!
+Yay! It's full!
 
 20 20 20 20 20 20 20 20 20 de 0a 0f
 cd b2 21 20 0e cf dd c0 dd 20 c3 af be 00
