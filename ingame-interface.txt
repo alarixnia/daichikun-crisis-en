@@ -6,6 +6,24 @@ Gold
 
 bf b0 d7 dd
 
+Date stuff
+----------
+
+ねん
+Year
+
+0e c8 dd
+
+がつ
+Month
+
+0e b6 c2
+
+にち
+Day
+
+0e c6 c1
+
 Inventory
 ---------
 
