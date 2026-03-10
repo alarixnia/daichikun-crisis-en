@@ -198,7 +198,8 @@ b3 cf bf b3 c5 20 b8 bc b6 c2 c1 ac db 0f 3f 00
 20 20 20 de 0a b8 bc b8 c0 bb 0f b0 0e b2 00
 
 モッシーが おおよろこびぢゃー
-???
+Oh, that's my (Mossy's)
+own favourite!
 
 20 20 20 20 de 20 20 20 20 20 20 de de 0a
 0f d3 af bc b0 0e b6 20 b5 b5 d6 db ba cb c1 ac b0 00
