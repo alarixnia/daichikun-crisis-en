@@ -70,11 +70,21 @@ You feel empowered.
 20 20 20 de 20 20 20 de 0a
 c1 b6 d7 b6 20 d0 c5 b7 af c0 b0 0a 00
 
+Geiger fuel
+
 へイ! まんたん でっせ
 Yay! It's full!
 
 20 20 20 20 20 20 20 20 20 de 0a 0f
 cd b2 21 20 0e cf dd c0 dd 20 c3 af be 00
+
+Plutonium
+
+プルトンキゃンディを しかけた
+Set up the Pluton candy.
+
+df 20 20 20 20 20 20 de 0a
+0f cc d9 c4 dd b7 ac dd c3 a8 0e a6 20 bc b6 b9 c0 00
 
 Checking on people healing at home
 ----------------------------------
