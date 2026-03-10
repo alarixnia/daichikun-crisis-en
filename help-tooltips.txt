@@ -259,6 +259,18 @@ b6 dc a6 cb b2 c0 d8 c3 b7 d9 c9 c1 ac
 Seed shop
 ---------
 
+ト ト ト トマト
+To-to-tomato!
+Tomato seeds
+
+0f c4 20 c4 20 c4 20 c4 cf c4 00
+
+こーん ばんわ
+Corn seeds
+
+20 20 20 20 de 0a
+0e ba b0 dd 20 ca dd dc 00
+
 どんなきになるかたのしみぢゃ
 What kind of tree will it become?
 It grows into
@@ -274,6 +286,12 @@ your produce.
 
 0e c8 b0 20 bc ae b3 c6 dd bb dd 0a 0a
 b6 af c3 d6 b0 00
+
+トトマトトマト
+TomTomato!
+Sell tomato.
+
+0f c4 c4 cf c4 c4 cf c4 00
 
 おねがいです こーんをかってください
 I'll buy your corn.
