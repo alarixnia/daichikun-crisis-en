@@ -144,6 +144,13 @@ I'm indebted to ???
 Commands
 --------
 
+みんなでがんばりまーす!
+We'll all do our best!
+Command everyone!
+
+20 20 20 de de 20 de 0a
+0e d0 dd c5 c3 b6 dd ca d8 cf b0 bd 0f 21 00
+
 つかれたものをやすませるのぢゃ
 Let the weary
 rest.
