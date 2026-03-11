@@ -86,6 +86,27 @@ Set up the Pluton candy.
 df 20 20 20 20 20 20 de 0a
 0f cc d9 c4 dd b7 ac dd c3 a8 0e a6 20 bc b6 b9 c0 00
 
+Using geiger upgrades
+---------------------
+
+Attack upgrade
+
+ガイガーごうがじょうぶに なったぞ
+The Geiger has been reinforced.
+
+de 20 de 20 de 20 de de 20 20 de 20 20 20 20 20 de 0a
+0f b6 b2 b6 b0 0e ba b3 b6 bc ae b3 cc c6 20 c5 af c0 bf 00
+
+Speed upgrade
+
+こうそくかキット
+ いだてん をくみこんだ
+Speed kit installed.
+
+ba b3 bf b8 b6 0f b7 af c4 0a
+20 20 de 20 20 20 20 20 20 20 20 de 0a
+0e 20 b2 c0 c3 dd 20 a6 b8 d0 ba dd c0 00
+
 Checking on people healing at home
 ----------------------------------
 
@@ -93,6 +114,11 @@ Checking on people healing at home
 Grandpa Cow
 
 20 de 0a b5 bc b2 bb dd ca 0a 06 28 00
+
+いのくまさんは
+Goro Bear
+
+b2 c9 b8 cf bb dd ca
 
 またがんばれるそうよ
 Ready for action.
