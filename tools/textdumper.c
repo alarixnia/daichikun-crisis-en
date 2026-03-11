@@ -161,8 +161,20 @@ main(int argc, char **argv)
 	for (size_t i = 0; i < len; ++i) {
 		uint8_t ch = buf[i] & 0xff;
 		if (ch == 0x0f) {
-			altfont = true;
-		} else if (ch == 0x0e || ch == 0x0) {
+			/*
+			 * avoid mistaking dialog window size markers for
+			 * charset indicators
+			 */
+			if (i >= 2 &&
+			    buf[i - 2] != 0x0 && buf[i - 1] != 0x0) {
+				altfont = true;
+			}
+		} else if (ch == 0x0e) {
+			if (i >= 2 &&
+			    buf[i - 2] != 0x0 && buf[i - 1] != 0x0) {
+				altfont = false;
+			}
+		} else if (ch == 0x0) {
 			altfont = false;
 		} else if (altfont && (ch >= '0' && ch <= '9')) {
 			fputc(ch, stdout);
