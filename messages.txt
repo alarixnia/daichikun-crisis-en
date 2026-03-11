@@ -89,7 +89,7 @@ df 20 20 20 20 20 20 de 0a
 Using geiger upgrades
 ---------------------
 
-Attack upgrade
+Strength upgrade
 
 ガイガーごうがじょうぶに なったぞ
 The Geiger has been reinforced.
@@ -106,6 +106,17 @@ Speed kit installed.
 ba b3 bf b8 b6 0f b7 af c4 0a
 20 20 de 20 20 20 20 20 20 20 20 de 0a
 0e 20 b2 c0 c3 dd 20 a6 b8 d0 ba dd c0 00
+
+Power upgrade
+
+ばりきあっぷオプシょンを
+くみこんだ
+Improved Geiger horsepower.
+
+de 20 20 20 20 df 20 df 0a
+ca d8 b7 b1 af cc 0f b5 cc bc ae dd 0e a6 0a
+20 20 20 20 de 0a
+b8 d0 ba dd c0 00
 
 Checking on people healing at home
 ----------------------------------

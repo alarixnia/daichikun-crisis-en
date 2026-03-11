@@ -337,7 +337,7 @@ de 20 de 20 de 20 20 20 20 20 20 20 20 20 20 20 de 0a
 0f b6 b2 b6 b0 0e ba b3 a6 d3 af c3 b7 c3 b8 da d9 dd c1 ac 00
 
 ガイガーごうの ねんりょうぢゃ
-Refuel the
+Fuel for the
 Geiger machine.
 
 de 20 de 20 de 20 20 20 20 20 20 20 20 de 0a
