@@ -126,6 +126,16 @@ Grandpa Cow
 
 20 de 0a b5 bc b2 bb dd ca 0a 06 28 00
 
+おおぞらは
+Oorza
+
+20 20 de 0a b5 b5 bf d7 ca 0a
+
+まりもは
+Marimo
+
+cf d8 d3 ca
+
 いのくまさんは
 Goro Bear
 
