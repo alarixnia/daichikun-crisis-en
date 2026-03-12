@@ -37,6 +37,17 @@ I go and see Mossy!
 スコップぢゃ
 For foes, use the ??? scope
 
+だいち、きてきのおとにちゅういするんぢゃぞ
+そのときは いちばがひらかれるときぢゃ
+(Daichi,)
+Listen out for the sound
+of the market opening.
+
+de 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 de 20 de 0a
+c0 b2 c1 a4 b7 c3 b7 c9 b5 c4 c6 c1 ad b3 b2 bd d9 dd c1 ac bf 0a
+20 20 20 20 20 20 20 20 de de 20 20 20 20 20 20 20 de 0a
+bf c9 c4 b7 ca 20 b2 c1 ca b6 cb d7 b6 da d9 c4 b7 c1 ac 00
+
 [verified ingame]
 とうナッツは だいちがおおく
 トマトやとうもろこしがそだちにくいんぢゃ

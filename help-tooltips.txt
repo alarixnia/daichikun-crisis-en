@@ -4,6 +4,13 @@ Help tooltips (select button)
 Basic menus
 -----------
 
+コマンドモードに はいります
+Enter action mode.
+Enter action menu.
+
+20 20 20 de 20 20 de 0a
+0f ba cf dd c4 d3 b0 c4 0e c6 20 ca b2 d8 cf bd 00
+
 みんなげんきかな
 How are we?
 
