@@ -74,15 +74,20 @@ de 20 20 20 20 df 20 20 20 20 20 20 20 20 20 de de 20 20 20 de 0a
 ぱすわーど ちゅうもんを
 しらべるところぢゃ
 
-You can check the
-password for your
-progress.
+Check the password
+for your progress.
 
 20 20 de 20 20 20 20 de 0a
 0f be b0 cc 0e 20 bd d9 dd c1 ac 00 06 0e df 20 20 20 de 0a
 ca bd dc b0 c4 20 c1 ad b3 d3 dd a6 0a
 20 20 de 20 20 20 20 de 0a
 bc d7 cd d9 c4 ba db c1 ac 0a 00
+
+セーブ するんぢゃ
+Save progress.
+
+20 20 de 20 20 20 20 de 0a
+0f be b0 cc 0e 20 bd d9 dd c1 ac 00
 
 Characters
 -----------
@@ -196,4 +201,49 @@ de de 20 20 20 de 20 20 de 0a
 20 20 de 20 20 20 20 20 de 0a
 ba b3 c4 b3 20 bd d9 c9 c1 ac 00
 
+Items
+------
 
+MIL9
+
+ふー つかれがとれるなー
+Phew, it's a relief.
+
+20 20 20 20 20 20 de 0a
+cc b0 20 c2 b6 da b6 c4 da d9 c5 b0 0a 00
+
+Pluton candy (Plutonium)
+
+こっちさ こい
+A lure.
+
+ba af c1 bb 20 ba b2 21 0a 00
+
+Standard shovel
+
+オトシアナダゾー
+Makes pitfalls.
+
+20 20 20 20 20 de de 0a
+0f b5 c4 bc b1 c5 c0 bf b0 0a 00 
+
+Geiger fuel
+
+しっかりあずかっていておくれ
+???
+
+Skewer snack
+
+げんきがでるような きがする
+Mmm, quick energy boost.
+
+de 20 20 de de 20 20 20 20 20 20 de 0a
+b9 dd b7 b6 c3 d9 d6 b3 c5 20 b7 b6 bd d9 00
+
+Brown bun snack
+
+モッシーは どうやってつかうんぢゃろ?
+I wonder how you use it?
+
+20 20 20 20 20 20 de 20 20 20 20 20 20 20 20 de 0a
+0f d3 af bc b0 0e ca 20 c4 b3 d4 af c3 c2 b6 b3 dd c1 ac db 0f 3f 00
