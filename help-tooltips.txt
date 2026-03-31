@@ -212,6 +212,18 @@ Phew, it's a relief.
 20 20 20 20 20 20 de 0a
 cc b0 20 c2 b6 da b6 c4 da d9 c5 b0 0a 00
 
+Stamina potion
+
+オー ぜんしんに ちからが
+みなぎってくるぞ
+It makes power
+flow through me.
+
+20 20 20 de 20 20 20 20 20 20 20 20 de 0a
+0f b5 b0 0e 20 be dd bc dd c6 20 c1 b6 d7 b6 0a
+20 20 de 20 20 20 20 de 0a
+d0 c5 b7 af c3 b8 d9 bf 00
+
 Pluton candy (Plutonium)
 
 こっちさ こい
@@ -227,10 +239,47 @@ Makes pitfalls.
 20 20 20 20 20 de de 0a
 0f b5 c4 bc b1 c5 c0 bf b0 0a 00 
 
+Gold shovel
+
+ふっ ふっ ふっ
+じごくにおとしてやる
+Digs straight to hell, hehe.
+
+cc af 20 cc af 20 cc af 0a
+de de 0a
+bc ba b8 c6 b5 c4 bc c3 d4 d9 00
+
 Geiger fuel
 
 しっかりあずかっていておくれ
 ???
+
+Geiger speed upgrade
+
+あっというまの こうそくいどうぢゃ
+Travel in the blink of an eye.
+
+20 20 20 20 20 20 20 20 20 20 20 20 20 de 20 de 0a 
+b1 af c4 b2 b3 cf c9 20 ba b3 bf b8 b2 c4 b3 c1 ac 00
+
+Geiger ability upgrade
+
+ドンドンはいかきができるぞ
+It'll help it scoop ash.
+
+de 20 de 20 20 20 20 20 de de 20 20 de 0a
+0f c4 dd c4 dd 0e ca b2 b6 b7 b6 c3 b7 d9 bf 0a 00
+
+Geiger defenses upgrade
+
+すこしぐらいプルトンぞくになぐられても
+だいじょうぶぢゃ
+It'll help it survive
+being hit by Plutons.
+
+20 20 20 de 20 20 df 20 20 20 de 20 20 20 de 0a
+bd ba bc b8 d7 b2 0f cc d9 c4 dd 0e bf b8 c6 c5 b8 d7 da c3 d3 0a
+de 20 de 20 20 de de 0a c0 b2 bc ae b3 cc c1 ac 00
 
 Skewer snack
 
