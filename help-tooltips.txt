@@ -289,10 +289,18 @@ Mmm, quick energy boost.
 de 20 20 de de 20 20 20 20 20 20 de 0a
 b9 dd b7 b6 c3 d9 d6 b3 c5 20 b7 b6 bd d9 00
 
-Brown bun snack
+Brown snack
 
 モッシーは どうやってつかうんぢゃろ?
 I wonder how you use it?
 
 20 20 20 20 20 20 de 20 20 20 20 20 20 20 20 de 0a
 0f d3 af bc b0 0e ca 20 c4 b3 d4 af c3 c2 b6 b3 dd c1 ac db 0f 3f 00
+
+Yellow snack
+
+なかなかの クッキーぢゃ
+Some tasty cookies.
+
+20 20 20 20 20 20 20 20 20 20 de 0a
+0e c5 b6 c5 b6 c9 0f 20 b8 af b7 b0 0e c1 ac 00
