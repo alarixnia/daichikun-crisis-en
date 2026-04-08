@@ -93,6 +93,22 @@ Set up the Pluton candy.
 df 20 20 20 20 20 20 de 0a
 0f cc d9 c4 dd b7 ac dd c3 a8 0e a6 20 bc b6 b9 c0 00
 
+
+Giving away items
+-----------------
+
+どうぞ
+Here you go
+
+とうそ
+c4 b3 bf
+
+どうも ありがとう
+Thank you very much
+
+とうも あ
+c4 b3 d3 20 b1
+
 Using geiger upgrades
 ---------------------
 
@@ -127,6 +143,18 @@ b8 d0 ba dd c0 00
 
 Checking on people healing at home
 ----------------------------------
+
+みんな ゆっくり
+Everyone
+
+ゆ っ く
+d5 af b8
+
+やすむのよ
+Take a rest
+
+や す む
+d4 bd d1
 
 おじいさんは
 Grandpa Cow
