@@ -552,3 +552,21 @@ bc ae b3 c6 dd ca 0a
 20 20 20 20 20 20 20 20 de 0a
 c8 dd 20 0f 34 0e b6 b2 b8 d9 bf 0a 0a
 bf da ca c5 20 a5 a5 a5 00
+
+[TODO insert]
+からすはしまのじょうたいを
+ちょうさしてくれるんぢゃ
+The crow can investigate
+the state of the island.
+
+[TODO insert]
+さいごまでけっして
+あきらめるでないぞ
+Don't give up until
+the bitter end.
+
+[TODO insert]
+ほんにさいきんの
+わけえもんときたひにゃあ
+Young folks these
+days...
