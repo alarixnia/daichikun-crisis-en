@@ -553,20 +553,33 @@ bc ae b3 c6 dd ca 0a
 c8 dd 20 0f 34 0e b6 b2 b8 d9 bf 0a 0a
 bf da ca c5 20 a5 a5 a5 00
 
-[TODO insert]
+[TODO verify ingame]
 からすはしまのじょうたいを
 ちょうさしてくれるんぢゃ
 The crow can investigate
-the state of the island.
+the island's state.
 
-[TODO insert]
+20 20 20 20 20 20 20 de 0a
+b6 d7 bd ca bc cf c9 bc ae b3 c0 b2 a6 0a
+20 20 20 20 20 20 20 20 20 20 de 0a
+c1 ae b3 bb bc c3 b8 da d9 dd c1 ac 00
+
+[TODO verify ingame]
 さいごまでけっして
 あきらめるでないぞ
-Don't give up until
+Don't give up til
 the bitter end.
 
-[TODO insert]
+20 20 de 20 de 0a
+bb b2 ba cf c3 b9 af bc c3 0a
+20 20 20 20 20 de 20 20 de 0a
+b1 b7 d7 d2 d9 c3 c5 b2 bf 00
+
+[TODO verify ingame]
 ほんにさいきんの
 わけえもんときたひにゃあ
-Young folks these
-days...
+Young folks
+these days...
+
+0a ce dd c6 bb b2 b7 dd c9 0a 0a
+dc b9 b4 d3 dd c4 b7 c0 cb c6 ac b1 a5 a5 a5 00
