@@ -6,7 +6,7 @@ and corn.
 
 [TODO insert]
 これでものんでげんきをだすんぢゃ
-Have a drink and cheer yourself up.
+Have a drink and perk yourself up.
 
 [TODO insert]
 ここいらでティータイむにするかのー
@@ -14,7 +14,7 @@ Let's have a spot of tea.
 
 [TODO insert]
 これでものんで げんきをだしてよ
-Drink this, and cheer yourself up.
+Drink this, and perk yourself up.
 
 [TODO insert]
 ガイガーごうに ねんりょうをほきゅうするのぢゃ
@@ -25,3 +25,19 @@ it's time to refuel it.
 [TODO insert]
 これでやつらを おびきだすんだ
 With this, we'll lure them.
+
+[TODO insert]
+くしくださーい
+A skewer, please.
+
+[TODO insert]
+ふっ ふっ ふっ
+Pfft pfft pfft.
+
+[TODO insert]
+はっ はっ はっ
+Huff puff.
+
+[TODO insert]
+まいと おおきに
+Thanks very much.

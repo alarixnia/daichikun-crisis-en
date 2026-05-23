@@ -452,6 +452,12 @@ de 0a
 20 20 20 20 20 20 20 de 0a
 b3 c2 b8 bc b2 b3 bc c1 ac af c0 00
 
+[TODO: insert]
+ばあさんのうつくしさは
+せけんでもひょうばんだったんぢゃ
+Granny Cow's beauty
+was world-renowned.
+
 [verified ingame]
 じゃまなてきには ありじごく
 スコップぢゃ
